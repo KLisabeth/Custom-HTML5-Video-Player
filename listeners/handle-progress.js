@@ -1,0 +1,1 @@
+video.addEventListener('timeupdate', handleProgress); // will update video field 
