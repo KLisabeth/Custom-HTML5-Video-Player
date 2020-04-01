@@ -1,7 +1,7 @@
 | Step Name | User Story | Changes in HTML | Changes in CSS | Change in JS |
 | --- | --- | --- | --- | --- |
-| __setup__ | I created the  folder structure with empty files. | I created `index.html` | nothing | nothing |
-| __html__ |As a developer, I want my website to be well structured | I created all the base html5 template and added the labels for the buttons, videos and inputs | nothing | nothing |
+| __setup__ | I created the  folders structure with empty files. | I created `index.html` | nothing | nothing |
+| __html__ |As a developer, I want my website to be well structured | I created all the base html5 template and added the tags for the buttons, videos and inputs | nothing | nothing |
 | __css__ | As a developer, I want the UI to look good and that the user has a good experience | I added the classes, and the links for the style sheet and an external library | I created the style sheet and added styles | nothing |
 | __play button__ | As a user, I want to pause and play the video | Adding links for `handlers/play.js` and `listeners/play.js` | nothing | I created the `handlers/play.js` and `listeners/play.js` files  |
 | __Update button__ | When the user pauses or plays the video, the button text will change |  Adding links for `handlers/update-button.js` and `listeners/update-button.js` | nothing | I created the `handlers/play.js` and `listeners/play.js` files|
