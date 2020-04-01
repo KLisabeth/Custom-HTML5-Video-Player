@@ -1,0 +1,1 @@
+fullscreenButton.addEventListener('click', fullscreenClose);
