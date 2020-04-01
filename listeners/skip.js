@@ -1,0 +1,1 @@
+skipButtons.forEach(button => button.addEventListener('click', skip)); // will activate skip buttons
