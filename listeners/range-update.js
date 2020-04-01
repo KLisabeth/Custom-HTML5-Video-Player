@@ -1,0 +1,2 @@
+ranges.forEach(range => range.addEventListener('change', handleRangeUpdate)); // will update each time we change position of sliders
+ranges.forEach(range => range.addEventListener('mousemove', handleRangeUpdate)); // will fire regardless if we are clicking or not.
