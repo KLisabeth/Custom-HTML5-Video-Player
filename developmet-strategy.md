@@ -1,0 +1,13 @@
+| Step Name | User Story | Changes in HTML | Changes in CSS | Change in JS |
+| --- | --- | --- | --- | --- |
+| __setup__ | I created the  folder structure with empty files. | I created `index.html` | nothing | nothing |
+| __html__ |As a developer, I want my website to be well structured | I created all the base html5 template and added the labels for the buttons, videos and inputs | nothing | nothing |
+| __css__ | As a developer, I want the UI to look good and that the user has a good experience | I added the classes, and the links for the style sheet and an external library | I created the style sheet and added styles | nothing |
+| __play button__ | As a user, I want to pause and play the video | Adding links for `handlers/play.js` and `listeners/play.js` | nothing | I created the `handlers/play.js` and `listeners/play.js` files  |
+| __Update button__ | When the user pauses or plays the video, the button text will change |  Adding links for `handlers/update-button.js` and `listeners/update-button.js` | nothing | I created the `handlers/play.js` and `listeners/play.js` files|
+| __skip buttons__ | As a user, I want to fast forward or rewind the video |Adding links for `handlers/skip.js` and `listeners/skip.js`| nothing | I created the `handlers/skip.js` and `listeners/skip.js` files|
+| __Playback rate__ | As a user, I want to speed up or slow down the video playback speed |Adding links for `handlers/range-update.js` and `listeners/range-update.js` | nothing | I created the `handlers/range-update.js` and `listeners/range-update.js` files |
+| __Progress bar - handle progress__ | As a user, I want to see how long the video is with a progress bar | Adding links for `handlers/handle-progress.js` and `listeners/handle-progress.js` | nothing | I created the `handlers/handle-progress.js` and `listeners/handle-progress.js` files |
+| __Progress bar - scrub__ | As a user, I want to fast forward or backward the length of the video | Adding links for `handlers/scrub.js` and `listeners/scrub.js` | nothing | I created the `handlers/scrub.js` and `listeners/scrub.js`  files|
+| __full screen mode - open__ |As a user, I want to put the video in full screen mode | Adding links for `handlers/fullscreen-open.js` and `listeners/fullscreen-open.js`| nothing | I created the `handlers/fullscreen-open.js` and `listeners/fullscreen-open.js`  files |
+| __full screen mode - close__ |As a user, I want to put the video window in normal mode again | Adding links for `handlers/fullscreen-close.js` and `listeners/fullscreen-close.js`| nothing | I created the `handlers/fullscreen-close.js` and `listeners/fullscreen-close.js`  files |
